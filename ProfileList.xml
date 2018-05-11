@@ -1,12 +1,12 @@
 <Profiles>
 	<ProfileData> 
 		<pID>1</pID> 
-		<iProfile>finlay.simpson@arcadiagroup.co.uk</iProfile>
+		<iProfile>profile@test.com</iProfile>
 		<iMailName> </iMailName>
 		<iMailNum> </iMailNum>
 		<iMailDomain> </iMailDomain>
-		<iPasswordCur>Armadill02</iPasswordCur>
-		<iPasswordNew>Armadill0</iPasswordNew>
+		<iPasswordCur>passw0rd</iPasswordCur>
+		<iPasswordNew>passw0rd</iPasswordNew>
 		<iTitle> </iTitle>
 		<iForename> </iForename>
 		<iSurname> </iSurname>
@@ -22,12 +22,12 @@
 	</ProfileData>
 	<ProfileData> 
 		<pID>2</pID> 
-		<iProfile>2finlay.simpson@arcadiagroup.co.uk</iProfile>
+		<iProfile>ty</iProfile>
 		<iMailName> </iMailName>
 		<iMailNum> </iMailNum>
 		<iMailDomain> </iMailDomain>
-		<iPasswordCur>Armadill02</iPasswordCur>
-		<iPasswordNew>Armadill0</iPasswordNew>
+		<iPasswordCur>passw0rd</iPasswordCur>
+		<iPasswordNew>passw0rd</iPasswordNew>
 		<iTitle> </iTitle>
 		<iForename> </iForename>
 		<iSurname> </iSurname>
@@ -43,12 +43,12 @@
 	</ProfileData>
 	<ProfileData> 
 		<pID>3</pID> 
-		<iProfile>3finlay.simpson@arcadiagroup.co.uk</iProfile>
+		<iProfile>t</iProfile>
 		<iMailName> </iMailName>
 		<iMailNum> </iMailNum>
 		<iMailDomain> </iMailDomain>
-		<iPasswordCur>Armadill02</iPasswordCur>
-		<iPasswordNew>Armadill0</iPasswordNew>
+		<iPasswordCur>passw0rd</iPasswordCur>
+		<iPasswordNew>passw0rd</iPasswordNew>
 		<iTitle> </iTitle>
 		<iForename> </iForename>
 		<iSurname> </iSurname>
@@ -64,11 +64,11 @@
 	</ProfileData>
 	<ProfileData> 
 		<pID>7001</pID> 
-		<iProfile>simpsof</iProfile>
+		<iProfile>t</iProfile>
 		<iMailName>CSRTest</iMailName>
 		<iMailNum> </iMailNum>
 		<iMailDomain>@hotmail.co.uk</iMailDomain>
-		<iPasswordCur>Armadill03</iPasswordCur>
+		<iPasswordCur>passw0rd</iPasswordCur>
 		<iPasswordNew></iPasswordNew>
 		<iTitle>Mr</iTitle>
 		<iForename>CSR</iForename>
@@ -86,11 +86,11 @@
 	
 	<ProfileData> 
 		<pID>8001</pID> 
-		<iProfile>simpsof</iProfile>
+		<iProfile>t</iProfile>
 		<iMailName>CSRTest</iMailName>
 		<iMailNum> </iMailNum>
 		<iMailDomain>@hotmail.co.uk</iMailDomain>
-		<iPasswordCur>Armadill04</iPasswordCur>
+		<iPasswordCur>passw0rd</iPasswordCur>
 		<iPasswordNew></iPasswordNew>
 		<iTitle>Mr</iTitle>
 		<iForename>CSR</iForename>
