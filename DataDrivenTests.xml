@@ -1,0 +1,18 @@
+<DataDrivenTest>
+	<TestData> 
+		<ddtID>0</ddtID>
+		<iTDTestID>1</iTDTestID>
+		<iTDTestStoreID>2001</iTDTestStoreID>
+		<iTDProfileID>1</iTDProfileID> 
+		<iTDCardID>1</iTDCardID>
+		<iTDPromoCode></iTDPromoCode>
+	</TestData>
+	<TestData>
+		<ddtID>1</ddtID>	
+		<iTDTestID>2</iTDTestID>
+		<iTDTestStoreID>2001</iTDTestStoreID>
+		<iTDProfileID>1</iTDProfileID> 
+		<iTDCardID>1</iTDCardID>
+		<iTDPromoCode></iTDPromoCode>
+	</TestData>
+</DataDrivenTest>

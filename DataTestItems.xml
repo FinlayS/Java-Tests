@@ -1,0 +1,26 @@
+<DataTestItem>
+	<TestItem>
+		<dtiID>0</dtiID>
+		<iDTITestID>1</iDTITestID>
+		<iTestItemOfOrder>1</iTestItemOfOrder> 
+		<iTestItemCode>19X07HTAN</iTestItemCode>
+		<iTestItemQty>1</iTestItemQty>
+		<iTestItemSize>'M'</iTestItemSize>
+	</TestItem>
+	<TestItem> 
+		<dtiID>1</dtiID>
+		<iDTITestID>1</iDTITestID>
+		<iTestItemOfOrder>2</iTestItemOfOrder> 
+		<iTestItemCode>23J58GROS</iTestItemCode>
+		<iTestItemQty>1</iTestItemQty>
+		<iTestItemSize>'14'</iTestItemSize>
+	</TestItem>
+	<TestItem> 
+		<dtiID>2</dtiID>
+		<iDTITestID>2</iDTITestID>
+		<iTestItemOfOrder>1</iTestItemOfOrder> 
+		<iTestItemCode>23J58GROS</iTestItemCode>
+		<iTestItemQty>1</iTestItemQty>
+		<iTestItemSize>'16'</iTestItemSize>
+	</TestItem>
+</DataTestItem>

@@ -1,0 +1,7 @@
+            //Added by IN435664 for INC - 3660 .TEMP [Start]
+            //String tempLogonId=tmpStoreId+".TEMP."+strDate+"."+tempLogon;
+            String tempLogonId= strBrandLogonParentStore +".TEMP."+strDate+"."+tempLogon;
+
+            //Added by IN435664 for INC - 3660 .TEMP [End]
+
+            String tempLogonPassword="TEMP."+tempPwd;

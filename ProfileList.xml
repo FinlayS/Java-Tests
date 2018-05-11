@@ -1,0 +1,108 @@
+<Profiles>
+	<ProfileData> 
+		<pID>1</pID> 
+		<iProfile>finlay.simpson@arcadiagroup.co.uk</iProfile>
+		<iMailName> </iMailName>
+		<iMailNum> </iMailNum>
+		<iMailDomain> </iMailDomain>
+		<iPasswordCur>Armadill02</iPasswordCur>
+		<iPasswordNew>Armadill0</iPasswordNew>
+		<iTitle> </iTitle>
+		<iForename> </iForename>
+		<iSurname> </iSurname>
+		<iPhoneNo> </iPhoneNo>
+		<iCountry> </iCountry>
+		<iHouseNamNum> </iHouseNamNum>
+		<iAdd1> </iAdd1>
+		<iAdd2> </iAdd2>
+		<iTownCity> </iTownCity>
+		<iState> </iState>
+		<iPostCode> </iPostCode>
+		<iProfilepcID> </iProfilepcID>
+	</ProfileData>
+	<ProfileData> 
+		<pID>2</pID> 
+		<iProfile>2finlay.simpson@arcadiagroup.co.uk</iProfile>
+		<iMailName> </iMailName>
+		<iMailNum> </iMailNum>
+		<iMailDomain> </iMailDomain>
+		<iPasswordCur>Armadill02</iPasswordCur>
+		<iPasswordNew>Armadill0</iPasswordNew>
+		<iTitle> </iTitle>
+		<iForename> </iForename>
+		<iSurname> </iSurname>
+		<iPhoneNo> </iPhoneNo>
+		<iCountry> </iCountry>
+		<iHouseNamNum> </iHouseNamNum>
+		<iAdd1> </iAdd1>
+		<iAdd2> </iAdd2>
+		<iTownCity> </iTownCity>
+		<iState> </iState>
+		<iPostCode> </iPostCode>
+		<iProfilepcID> </iProfilepcID>
+	</ProfileData>
+	<ProfileData> 
+		<pID>3</pID> 
+		<iProfile>3finlay.simpson@arcadiagroup.co.uk</iProfile>
+		<iMailName> </iMailName>
+		<iMailNum> </iMailNum>
+		<iMailDomain> </iMailDomain>
+		<iPasswordCur>Armadill02</iPasswordCur>
+		<iPasswordNew>Armadill0</iPasswordNew>
+		<iTitle> </iTitle>
+		<iForename> </iForename>
+		<iSurname> </iSurname>
+		<iPhoneNo> </iPhoneNo>
+		<iCountry> </iCountry>
+		<iHouseNamNum> </iHouseNamNum>
+		<iAdd1> </iAdd1>
+		<iAdd2> </iAdd2>
+		<iTownCity> </iTownCity>
+		<iState> </iState>
+		<iPostCode> </iPostCode>
+		<iProfilepcID> </iProfilepcID>
+	</ProfileData>
+	<ProfileData> 
+		<pID>7001</pID> 
+		<iProfile>simpsof</iProfile>
+		<iMailName>CSRTest</iMailName>
+		<iMailNum> </iMailNum>
+		<iMailDomain>@hotmail.co.uk</iMailDomain>
+		<iPasswordCur>Armadill03</iPasswordCur>
+		<iPasswordNew></iPasswordNew>
+		<iTitle>Mr</iTitle>
+		<iForename>CSR</iForename>
+		<iSurname>Test</iSurname>
+		<iPhoneNo>07896541244</iPhoneNo>
+		<iCountry>United Kingdom</iCountry>
+		<iHouseNamNum>20</iHouseNamNum>
+		<iAdd1>20 Hillesdon Road</iAdd1>
+		<iAdd2> </iAdd2>
+		<iTownCity>TORQUAY</iTownCity>
+		<iState> </iState>
+		<iPostCode>TQ11QQ</iPostCode>
+		<iProfilepcID>CSRTestCustomer</iProfilepcID>
+	</ProfileData>
+	
+	<ProfileData> 
+		<pID>8001</pID> 
+		<iProfile>simpsof</iProfile>
+		<iMailName>CSRTest</iMailName>
+		<iMailNum> </iMailNum>
+		<iMailDomain>@hotmail.co.uk</iMailDomain>
+		<iPasswordCur>Armadill04</iPasswordCur>
+		<iPasswordNew></iPasswordNew>
+		<iTitle>Mr</iTitle>
+		<iForename>CSR</iForename>
+		<iSurname>Test</iSurname>
+		<iPhoneNo>07896541244</iPhoneNo>
+		<iCountry>United Kingdom</iCountry>
+		<iHouseNamNum>20</iHouseNamNum>
+		<iAdd1>20 Hillesdon Road</iAdd1>
+		<iAdd2> </iAdd2>
+		<iTownCity>TORQUAY</iTownCity>
+		<iState> </iState>
+		<iPostCode>TQ11QQ</iPostCode>
+		<iProfilepcID>CSRTestCustomer</iProfilepcID>
+	</ProfileData>
+</Profiles>

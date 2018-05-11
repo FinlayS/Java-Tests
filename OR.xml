@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<OR>
+    <Page name="page1">
+        <Object name = 'pg1obj1'>
+            <propertytype>id </propertytype>
+             <propertyvalue>//*[@id='pg1obj1'] </propertyvalue>
+        </Object>
+        <Object name = 'pg1obj2'>
+            <propertytype>classname </propertytype>
+             <propertyvalue>//*[@classname='pg1obj2'] </propertyvalue>
+        </Object>
+    </Page>
+   
+    <Page name="page2">
+         <Object name = 'pg2obj1'> 
+                <propertytype>xpath </propertytype>
+                <propertyvalue>//*[@xpath='pg2obj1']</propertyvalue>         
+            </Object>
+            <Object name = 'pg2obj2'>
+            <propertytype>linktext </propertytype>
+             <propertyvalue>//*[@linktext='pg2obj2'] </propertyvalue>
+        </Object>   
+    </Page>
+</OR>
